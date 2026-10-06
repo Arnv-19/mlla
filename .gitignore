@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+results/diag_train.npz
+results/diag_test.npz
+results/tables/*.npz
+results/stress_cache/
+report/*.aux
+report/*.log
+report/*.out

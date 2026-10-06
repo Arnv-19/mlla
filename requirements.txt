@@ -1,0 +1,6 @@
+sionna-no-rt>=2.2   # PyTorch-based Sionna PHY (no ray tracer); pulls in torch
+numpy
+scipy
+matplotlib
+pyyaml
+scikit-learn        # OOD detector, metrics (later)
